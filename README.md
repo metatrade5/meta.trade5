@@ -27,7 +27,7 @@ All components of algorithmic trading in MetaTrader 5 are combined into a specia
 Forex VPS - for smooth execution of robots 24 hours a day
 Even without programming skills, you can take full advantage of all the advantages of trading robots. In MetaTrader 5, you can not only write EAs yourself, but also download, rent or buy thousands of ready-made applications for free. If this does not seem enough to you, you can always order the development of your own robot from experienced programmers.
 
-<img src = https: //www.metatrader5.com/c/2/0/Algorithmic-Trading-in-MetaTrader5.jpg border = "0" width = "100%">
+<img src = https://www.metatrader5.com/c/2/0/Algorithmic-Trading-in-MetaTrader5.jpg border = "0" width = "100%">
 
 ### Automated Trading Championship
 Trading robots have proven their profitability many times during the public algorithmic trading championship Automated Trading Championship 2006-2012. The large prize pool of $ 80,000 attracted hundreds of developers and thousands of traders every year. During this competition, hundreds of trading robots traded without human intervention for 3 months so that their authors received the title of the Best Developer of the Year and a solid prize.
